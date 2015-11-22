@@ -11,7 +11,7 @@ Data as a Service
 		python FileServer.py 5554
 	- After Spark cluster installation, Deploy SparkServer.py on Spark master and run as:
 		python SparkServer.py 5555
-	- Deploy web2py.app.sparkapp.w2p to Spark master with Web2py running by importing as existing applications
+	- Deploy  web2py.app.Dataasservice.w2p to Spark master with Web2py running by importing as existing applications
 		Run web2py on port 8000
 	- The app has been setup.
 
